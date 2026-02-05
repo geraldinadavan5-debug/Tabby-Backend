@@ -1,0 +1,9 @@
+{
+  "name": "tabby-backend",
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
